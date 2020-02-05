@@ -8,6 +8,8 @@
 ```js
 sudo pip install git+git://github.com/nasa8x/mixhash.git
 
+sudo pip install construct==2.5.2
+
 git clone https://github.com/nasa8x/genesis-block.git
 
 cd genesis-block
